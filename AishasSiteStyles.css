@@ -1,0 +1,68 @@
+
+header {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size: 60pt;
+    font-weight: bolder;
+    color: #546BD1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+h2 {font-size: 15pt;
+    font-weight: bold;
+    color: #3F519E;
+}
+
+body {
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-left: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #C9CFEB;
+}
+
+p {
+    color: #393E52;
+}
+
+table {
+    color: #393E52;
+}
+
+img {
+    width: 100%;
+}
+
+#NavTitle {
+    font-style: italic;
+    font-weight: lighter;
+    color:black;
+}
+
+#DateAndTime {
+    font-weight: lighter;
+    color: gray;
+    font-style: italic;
+    font-size: 10pt;
+
+}
+
+nav {
+    text-align: right;
+    padding-right: 5px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+td { 
+    padding: 10px;
+}
